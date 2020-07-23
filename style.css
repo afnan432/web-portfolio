@@ -1,0 +1,16 @@
+body{font-family: 'Lobster', cursive;}
+h1{font-size: 45px;
+}  
+h3{font-size:30px ;}
+.name-highlight{
+    color: grey;
+}  
+.half-width{
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
